@@ -7,6 +7,6 @@ Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad veli
 
 Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
 
-[Daëron]{/assets/Daëron-2019.pdf}
+[Daëron]{https://mdaeron.github.io/jkmm/assets/Daëron-2019.pdf}
 
-[Elias]{/assets/Elias-2007.pdf}
+[Elias]{https://mdaeron.github.io/jkmm/assets/Elias-2007.pdf}
